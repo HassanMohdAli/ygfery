@@ -56,6 +56,6 @@ client.on('messageCreate', message => {     if (message.mentions.has(client.user
 
 
 
-client.login("MTAzMjY5NTc3NjM3NzMxOTQ0NQ.GQ3dJZ.QkiLt_Ry1NEHzxJe-1dimhzISTsoNKZknrgZ8Y").catch((err) => {
+client.login("MTAzMjY5NTc3NjM3NzMxOTQ0NQ.G5SwqQ.jQj7G1Ih-oxlZcrm2zpyHwktTvOqiYmkgmOa1o").catch((err) => {
    console.log(err.message)
 });
